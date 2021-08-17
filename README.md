@@ -4,6 +4,7 @@ This project is a hotel-searching mobile app (Airbnb clone) created using React 
 ## Screenshots
 ### Sign In and Sign Up Page
 ![Authentication](https://user-images.githubusercontent.com/71639142/129745696-86d7d2cd-99ca-4743-8333-afd4a058f563.PNG)
+
 User account creation with email authentication by AWS Amplify
 
 ### Explore Hotels and Search Page
